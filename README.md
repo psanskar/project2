@@ -1,3 +1,3 @@
 #New project
 This project was created from local system
-created by Sanskar Patil
+created by Sanskar Patil.
